@@ -11,6 +11,7 @@ public class AllTogether {
         System.out.println("--------------------------------------");
         AreaOfCircle.AreaOfCircle(2);
         System.out.println("--------------------------------------");
-        Square.AreaOfSquare(2);
+        AreaOfCircle.area(2,4);
+        AreaOfCircle.area(2.0,6.0);
     }
 }
