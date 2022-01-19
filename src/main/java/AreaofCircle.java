@@ -17,4 +17,5 @@ public static double area(int base,int height){
         double area=length*width;
         System.out.println("Area of rectangle:"+area);
         return area;
+        
     }
