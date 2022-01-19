@@ -12,6 +12,7 @@ public static double area(int base,int height){
         area=0.5*base*height;
         System.out.println("Area of the Triangle is ::" + area);
         return area;
+    
     }
     public static double area(double length,double width){
         double area=length*width;
